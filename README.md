@@ -18,7 +18,6 @@ Many individuals struggle to keep up with their daily prayer routines due to bus
 
 **PRAY NOW** addresses these challenges by providing an intuitive platform that allows users to:
 
-- **Manage Prayer Times**: Easily set and customize prayer times according to their location and personal preferences.
 - **Receive Notifications**: Get timely reminders for each prayer, ensuring they never miss a prayer.
 - **Track Prayer History**: Review and track past prayer schedules to reflect on consistency and devotion.
 - **Access Anytime, Anywhere**: Use the app on any device thanks to its responsive design.
@@ -45,7 +44,7 @@ To set up **PRAY NOW** on your local machine, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/pray-now.git
+   git clone https://github.com/iamjohncaleb/PRAY-NOW/tree/main
    ```
 
 2. **Install dependencies:**
