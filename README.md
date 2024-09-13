@@ -1,4 +1,4 @@
-# Broodle - A Mood Tracking App
+# PRAY NOW - A Prayer Schedule App
 
 <div>
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
@@ -8,53 +8,55 @@
 
 ## About the Project
 
-Broodle is a mood tracking application designed to help users monitor and understand their emotions on a daily basis. In a world where mental health is becoming increasingly important, keeping track of one’s emotional well-being can provide valuable insights into behavior patterns, triggers, and overall mental health.
+**PRAY NOW** is a prayer schedule application designed to help users keep track of their daily prayer routines with ease and precision. In a world where staying connected to one's faith and maintaining a consistent prayer schedule can be challenging, this app aims to support users in their spiritual journey by offering a reliable and user-friendly tool for managing prayer times.
 
 ### The Problem
 
-Many people experience fluctuating moods but lack the tools to properly monitor them over time. This can lead to difficulty identifying patterns that could be linked to mental health concerns such as anxiety, depression, or stress. Existing mood tracking apps may be complex or unintuitive, deterring users from consistently logging their moods.
+Many individuals struggle to keep up with their daily prayer routines due to busy schedules or difficulty remembering prayer times. Traditional methods, like printed schedules or manual reminders, can be inconvenient and easily overlooked. This can lead to inconsistencies in prayer practice and a feeling of disconnection from one's faith.
 
 ### The Solution
 
-**Broodle** offers a simple, user-friendly interface to log and track daily moods. It provides an easy way to:
+**PRAY NOW** addresses these challenges by providing an intuitive platform that allows users to:
 
-- Record your mood with a few clicks.
-- Visualize your mood patterns over time.
-- Identify trends that might affect mental well-being.
-- Get insights into emotional triggers and potential remedies.
+- **Manage Prayer Times**: Easily set and customize prayer times according to their location and personal preferences.
+- **Receive Notifications**: Get timely reminders for each prayer, ensuring they never miss a prayer.
+- **Track Prayer History**: Review and track past prayer schedules to reflect on consistency and devotion.
+- **Access Anytime, Anywhere**: Use the app on any device thanks to its responsive design.
 
-With Broodle, users are empowered to take control of their emotional health by regularly checking in and reflecting on their moods, making the tracking process easy and accessible.
+With **PRAY NOW**, users can seamlessly integrate prayer into their daily lives, helping them maintain their spiritual practice with minimal effort.
 
 ## Features
 
-- **Daily Mood Tracking**: Users can log their mood on a daily basis with predefined emotions or create custom emotions.
-- **Mood History**: See mood trends over time with charts and graphs.
-- **Personalized Insights**: Gain insights into the potential factors influencing emotional changes.
-- **Mobile Responsive**: Built with responsive design, Broodle works smoothly across all devices.
+- **Customizable Prayer Schedule**: Set up and adjust prayer times based on your location and preferences.
+- **Timely Notifications**: Receive alerts for each prayer time to stay on track.
+- **Prayer History Tracking**: View your prayer history to monitor and reflect on your practice.
+- **Mobile Responsive**: Enjoy a consistent experience across all devices with a responsive design.
 
 ## Built With
 
-- **[Next.js](https://nextjs.org/)** - The React Framework for production, enabling server-side rendering and static site generation.
-- **[Firebase](https://firebase.google.com/)** - Backend-as-a-Service for authentication, database, and hosting services.
-- **[Tailwind CSS](https://tailwindcss.com/)** - A utility-first CSS framework for rapid UI development.
+- **[Next.js](https://nextjs.org/)** - A React framework for building server-side rendered and statically generated web applications, providing optimal performance and scalability.
+- **[Tailwind CSS](https://tailwindcss.com/)** - A utility-first CSS framework that facilitates rapid and flexible UI design.
+- **[Firebase](https://firebase.google.com/)** - A comprehensive backend-as-a-service platform offering authentication, database, and cloud functions.
 
 ## Installation
 
-To get started with Broodle on your local machine:
+To set up **PRAY NOW** on your local machine, follow these steps:
 
-1. Clone the repository:
+1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/broodle.git
+   git clone https://github.com/yourusername/pray-now.git
    ```
 
-2. Install dependencies:
+2. **Install dependencies:**
 
    ```bash
    npm install
    ```
 
-3. Create a `.env.local` file in the root of your project and add your Firebase configuration:
+3. **Configure Firebase:**
+
+   Create a `.env.local` file in the root of your project and add your Firebase configuration details:
 
    ```bash
    NEXT_PUBLIC_FIREBASE_API_KEY=your-api-key
@@ -65,19 +67,26 @@ To get started with Broodle on your local machine:
    NEXT_PUBLIC_FIREBASE_APP_ID=your-app-id
    ```
 
-4. Run the development server:
+4. **Run the development server:**
+
    ```bash
    npm run dev
    ```
 
 ## Contributing
 
-If you'd like to contribute to the development of **Broodle**, please fork the repository and submit a pull request with your changes. Any feedback or contributions are welcome!
+We welcome contributions to **PRAY NOW**! To contribute:
+
+1. Fork the repository.
+2. Create a feature branch.
+3. Submit a pull request with a clear description of your changes.
+
+Your feedback and contributions are highly valued!
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
-Let me know if you'd like to add or modify anything else!
+Feel free to reach out if you have any questions or suggestions. We hope **PRAY NOW** enhances your spiritual practice and helps you stay connected to your faith!
