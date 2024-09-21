@@ -19,15 +19,15 @@
 
 
 
-## About the Project
+##🤖 About the Project
 
 **PRAY NOW** is a prayer schedule application designed to help users keep track of their daily prayer routines with ease and precision. In a world where staying connected to one's faith and maintaining a consistent prayer schedule can be challenging, this app aims to support users in their spiritual journey by offering a reliable and user-friendly tool for managing prayer times.
 
-### The Problem
+### 🛠️ The Problem
 
 Many individuals struggle to keep up with their daily prayer routines due to busy schedules or difficulty remembering prayer times. Traditional methods, like printed schedules or manual reminders, can be inconvenient and easily overlooked. This can lead to inconsistencies in prayer practice and a feeling of disconnection from one's faith.
 
-### The Solution
+### ⚙️ The Solution
 
 **PRAY NOW** addresses these challenges by providing an intuitive platform that allows users to:
 
@@ -37,7 +37,7 @@ Many individuals struggle to keep up with their daily prayer routines due to bus
 
 With **PRAY NOW**, users can seamlessly integrate prayer into their daily lives, helping them maintain their spiritual practice with minimal effort.
 
-## Features
+## 🔋 Features
 
 - **Customizable Prayer Schedule**: Set up and adjust prayer times based on your location and preferences.
 - **Timely Notifications**: Receive alerts for each prayer time to stay on track.
@@ -50,7 +50,7 @@ With **PRAY NOW**, users can seamlessly integrate prayer into their daily lives,
 - **[Tailwind CSS](https://tailwindcss.com/)** - A utility-first CSS framework that facilitates rapid and flexible UI design.
 - **[Firebase](https://firebase.google.com/)** - A comprehensive backend-as-a-service platform offering authentication, database, and cloud functions.
 
-## Installation
+## 🤸 Installation
 
 To set up **PRAY NOW** on your local machine, follow these steps:
 
