@@ -6,6 +6,9 @@
     <img src="https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logoColor=white&logo=firebase&color=FFCA28" alt="firebase" />
 </div>
 
+![My Project Image](ReadMe Picture)
+
+
 ## About the Project
 
 **PRAY NOW** is a prayer schedule application designed to help users keep track of their daily prayer routines with ease and precision. In a world where staying connected to one's faith and maintaining a consistent prayer schedule can be challenging, this app aims to support users in their spiritual journey by offering a reliable and user-friendly tool for managing prayer times.
