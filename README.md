@@ -82,6 +82,9 @@ We welcome contributions to **PRAY NOW**! To contribute:
 
 Your feedback and contributions are highly valued!
 
+## Checkout the live site
+https://pray-now-iamjohncalebs-projects.vercel.app/
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
