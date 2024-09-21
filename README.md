@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logoColor=white&logo=firebase&color=FFCA28" alt="firebase" />
 </div>
 
-![My Project Image](ReadMe Picture)
+
 
 
 ## About the Project
