@@ -28,7 +28,6 @@
 
 
 
-
 'use client'
 import { auth, db } from '@/firebase'
 import { createUserWithEmailAndPassword, onAuthStateChanged, signInWithEmailAndPassword, signOut } from 'firebase/auth'
